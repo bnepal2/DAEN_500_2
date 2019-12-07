@@ -1,0 +1,12 @@
+
+
+X = int(input("Enter your X value here: ", ))
+print()
+Y = int(input("Enter your Y vlaue here: ", ))
+print()
+if (X>Y): 
+ print("pass")
+elif (X==Y):
+ print("Impossible")
+else:
+ print("fail")
